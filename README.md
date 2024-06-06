@@ -23,7 +23,7 @@ This application empowers users to upload PDF documents and leverage the power o
 
 **Getting Started:**
 
-1.  Bashpip install streamlit langchain\_nvidia\_ai\_endpoints langchain pdfplumber faiss Use code [with caution.](/faq#coding)content\_copy
+1.  pip install streamlit langchain\_nvidia\_ai\_endpoints langchain pdfplumber faiss 
     
 2.  NVIDIA\_API\_KEY=your\_api\_key\_here
     
@@ -31,8 +31,7 @@ This application empowers users to upload PDF documents and leverage the power o
         
     *   Add the following line, replacing your\_api\_key\_here with your actual NVIDIA API key obtained from the NVIDIA Developer Portal:
         
-3.  Bashstreamlit run app.py Use code [with caution.](/faq#coding)content\_copy
-    
+3.  streamlit run app.py
 
 **User Guide:**
 
